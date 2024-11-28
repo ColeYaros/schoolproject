@@ -1,0 +1,9 @@
+.wholeScreen {
+    padding-top: 40px;
+}
+.wholeCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
